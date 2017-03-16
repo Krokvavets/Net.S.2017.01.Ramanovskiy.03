@@ -1,0 +1,8 @@
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\bin\Debug\Task2.CUI.exe.config
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\bin\Debug\Task2.CUI.exe
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\bin\Debug\Task2.CUI.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\bin\Debug\Task2.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\bin\Debug\Task2.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\obj\Debug\Task2.CUI.csprojResolveAssemblyReference.cache
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\obj\Debug\Task2.CUI.exe
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task2.CUI\obj\Debug\Task2.CUI.pdb

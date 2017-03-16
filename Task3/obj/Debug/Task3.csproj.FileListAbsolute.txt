@@ -1,0 +1,4 @@
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task3\bin\Debug\Task3.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task3\bin\Debug\Task3.pdb
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task3\obj\Debug\Task3.dll
+C:\Users\jupra\documents\visual studio 2015\Projects\Net.S.2017.01.Ramanovskiy.03\Task3\obj\Debug\Task3.pdb
