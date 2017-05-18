@@ -8,22 +8,18 @@ namespace Task1
 {
     public static class Task1
     {
+        /// <summary>
+        /// The method find index of input array for which sum elements to the left of it is equal to the sum of the elements on the right
+        /// </summary>
+        /// <param name="array">input array</param>
+        /// <returns>index of input array</returns>
         public static int Calculation(this int[] array)
         {
-            int left, right;
-            if (array.Length == 0 || array.Length >= 1000)
-                throw new Exception("Invalid array length");
-
-            for (int sI = 0; sI < array.Length; sI++)
+            if (array.Length == 0 )throw new ArgumentException("Invalid array length");
+            for (int i = 0; i < array.Length; i++)
             {
-                left = 0;
-                right = 0;
-                for (int i = 0; i < sI; i++)
-                    left += array[i];
-                for (int i = sI + 1; i < array.Length; i++)
-                    right += array[i];
-                if (right == left)
-                    return sI;
+                if (array.Take(i).Sum() == array.Skip(i + 1).Sum())
+                    return i;
             }
             return -1;
         }

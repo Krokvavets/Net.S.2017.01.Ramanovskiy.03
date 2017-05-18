@@ -9,6 +9,11 @@ namespace Task2
     public static class Task2
     {
         static string[] alphabet = new string[] { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
+        /// <summary>
+        /// </summary>
+        /// <param name="str1">input string</param>
+        /// <param name="str2">input string</param>
+        /// <returns>Joint string sortet by alphabet</returns>
         public static string Longest(string str1, string str2)
         {
             string concatenatedStr = "";
